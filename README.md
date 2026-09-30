@@ -74,7 +74,13 @@ Serving & Analytics: Built interactive executive dashboards (Atlon BI 360) with 
 │   └── databricks_job_config.json    # Workflow configuration and dependency mapping
 └── README.md
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/bd473291-8a96-407d-8a7e-0c7cb98cfcf7" />
+
+
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/1afb0128-649f-4eee-80d5-cb02f1a321da" />
+
+
+
 
 
 🚀 Key Learnings & Engineering Highlights
